@@ -5,14 +5,14 @@ paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 # header text
-title: A Big Tom #Your awesome site name :)
-header: Something just like this. #Write something about you here...
+title: Shit Fire #Your awesome site name :)
+header: I am just a cute cat. #Write something about you here...
 
 # for welcome page
 # to replace image go to index.html
 email:
-  address: "1846407618@qq.com" #"user@example.com"
-  text: "1846407618 at qq.com" #"user (at) example.com"
+  address: "911728579@qq.com" #"user@example.com"
+  text: "911728579 at qq.com" #"user (at) example.com"
 
 # disqus comment
 disqus:
